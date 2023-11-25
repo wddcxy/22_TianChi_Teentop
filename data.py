@@ -1,0 +1,5 @@
+kernel_log_data_path = 'supplements/memory_sample_kernel_log_round1_a_train.csv'
+failure_tag_data_path = 'supplements/memory_sample_failure_tag_round1_a_train.csv'
+model_data_path = 'supplements/model.txt'
+test_data_path = 'supplements/memory_sample_kernel_log_k12_round1_a_test.csv'
+output_data_path = 'result.csv'
